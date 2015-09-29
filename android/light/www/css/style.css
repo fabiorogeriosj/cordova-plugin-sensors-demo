@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+
+ion-content {
+	background-color: #ae5600;
+}
+
+#light {
+	width: 0;
+	height:0;
+	border-radius: 50%;
+	background-color: #fff;
+	box-shadow: 0 0 100px 100px #fff;
+	margin: auto;
+}
