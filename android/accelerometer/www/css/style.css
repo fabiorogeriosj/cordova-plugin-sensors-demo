@@ -1,0 +1,16 @@
+/* Empty. Add your own CSS if you like */
+
+#ball {
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -64px;
+    margin-left: -64px;
+	width: 128px;
+	height: 128px;
+}
